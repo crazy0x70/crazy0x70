@@ -7,7 +7,7 @@
       <a href="https://py2.org">
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <img src="https://github.com/benyou1969/benyou1969/blob/master/globe.gif?raw=true" />
+        <img src="https://avatars.githubusercontent.com/u/85382711?v=4" />
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <br>
