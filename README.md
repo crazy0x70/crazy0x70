@@ -7,7 +7,7 @@ I have some works with **JavaScript**, **Python** and **PHP**, contact me if you
 
 ### 📫 Contact Me on Social Media
 
-[t00ls][-1] | [V2EX][0] or just ✉️ [Email](mailto:i@mail@crazy0x70.com | 💬 [Issue](https://github.com/crazy0x70/crazy0x70/issues/me) Me about everything!
+[t00ls][-1] | [V2EX][0] or just ✉️ [Email](mailto:mail@crazy0x70.com | 💬 [Issue](https://github.com/crazy0x70/crazy0x70/issues/me) Me about everything!
  
 ### 💻 Open Source Work Stats
 
