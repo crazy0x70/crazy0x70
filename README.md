@@ -3,7 +3,7 @@
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/crazy0x70)
 
 Hi guys, I'm **Crazy0x70**. I am a Security Services Engineer from Guangxi, China. I'm currently working as a Cyber security guard at Flower Fruit Hill	.  
-I have some works with **JavaScript**, **Python** and **PHP**, contact me if you have same interesting or some questions!
+I have some works with **Python** and **PHP**, contact me if you have same interesting or some questions!
 
 ### 📫 Contact Me on Social Media
 
