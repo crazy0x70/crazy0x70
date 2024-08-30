@@ -7,11 +7,10 @@
       <a href="https://py2.org">
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <img src="https://avatars.githubusercontent.com/u/85382711?v=4" />
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <br>
-        <strong>Visit my personal website </strong>
+        <strong>Visit my blog</strong>
     </td>
   </tr>
 </table>
