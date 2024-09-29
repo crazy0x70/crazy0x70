@@ -7,14 +7,14 @@ I have some works with **Python** and **PHP**, contact me if you have same inter
 
 ### 📫 Contact Me on Social Media
 
-[t00ls][-1] | [V2EX][0] or just ✉️ [Email](mailto:mail@crazy0x70.com) | 💬 [Issue](https://github.com/crazy0x70/crazy0x70/issues/me) Me about everything!
+[t00ls][-1] | [Telegram][0] or just ✉️ [Email](mailto:mail@crazy0x70.com) | 💬 [Issue](https://github.com/crazy0x70/crazy0x70/issues/me) Me about everything!
  
 ### 💻 Open Source Work Stats
 
 ![crazy0x70's Github stats](https://github-readme-stats.vercel.app/api?username=crazy0x70&show_icons=true)
 
 [-1]: https://www.t00ls.com/pm.php?action=new&uid=15051
-[0]: https://www.v2ex.com/member/crazy0x70
+[0]: https://t.me/acequeen1001
 
 ---
 ⭐️ From [crazy0x70](https://github.com/crazy0x70)
