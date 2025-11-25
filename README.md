@@ -14,7 +14,7 @@ I have some works with **Python** and **PHP**, contact me if you have same inter
 ![crazy0x70's Github stats](https://github-readme-stats.vercel.app/api?username=crazy0x70&show_icons=true)
 
 [-1]: https://www.t00ls.com/pm.php?action=new&uid=15051
-[0]: https://t.me/acequeen1001
+[0]: https://t.me/Crazy0x70_Chat_Bot
 
 ---
 ⭐️ From [crazy0x70](https://github.com/crazy0x70)
